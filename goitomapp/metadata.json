@@ -1,0 +1,7 @@
+{
+  "name": "GoitomApp",
+  "description": "Uma aplicação profissional de contagem e gestão de pães para padarias, com contagem baseada em IA e controlo de acesso por funções.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
